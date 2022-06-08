@@ -1,0 +1,15 @@
+0: Computer
+1: Computer
+2: Computer
+3: The
+4: The
+5: Computer
+6: Programming
+7: Human–computer
+8: Areas
+9: Computer
+10: Artificial
+11: Within
+12: The
+13: Turing
+14: Award
