@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab15", "lab15\lab15.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "copy_between_minmax", "copy_between_minmax\copy_between_minmax.vcxproj", "{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab18", "lab18\lab18.vcxproj", "{F4B718A6-3295-45BE-A805-404D3835A651}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Release|x64.Build.0 = Release|x64
 		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Release|x86.ActiveCfg = Release|Win32
 		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Release|x86.Build.0 = Release|Win32
+		{F4B718A6-3295-45BE-A805-404D3835A651}.Debug|x64.ActiveCfg = Debug|x64
+		{F4B718A6-3295-45BE-A805-404D3835A651}.Debug|x64.Build.0 = Debug|x64
+		{F4B718A6-3295-45BE-A805-404D3835A651}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4B718A6-3295-45BE-A805-404D3835A651}.Debug|x86.Build.0 = Debug|Win32
+		{F4B718A6-3295-45BE-A805-404D3835A651}.Release|x64.ActiveCfg = Release|x64
+		{F4B718A6-3295-45BE-A805-404D3835A651}.Release|x64.Build.0 = Release|x64
+		{F4B718A6-3295-45BE-A805-404D3835A651}.Release|x86.ActiveCfg = Release|Win32
+		{F4B718A6-3295-45BE-A805-404D3835A651}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
