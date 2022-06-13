@@ -5,6 +5,32 @@
 #include <string.h>
 #include <ctype.h>
 
+// 
+// открывает файл
+// FILE *fopen(char const* _FileName, char const* _Mode)
+// "w" - перезапись файла (write)
+// "r" - прочитать (read)
+// 
+
+// 
+// закрыть файл
+// fclose(infile)
+// 
+
+// 
+// fseek - задает позицию в файле (SEEK_END - конец файла, SEEK_SET с 0 - начало файла)
+// ftell - говорит сколько байт в файле было пройдено
+// 
+
+// 
+// читает из файла данные
+// size_t fread(void *_Buffer, size_t _ElementSize, size_t _ElementCount, FILE *_Stream);
+// _Buffer - куда будем читать из файла
+// _ElementSize - размер одного элемента
+// _ElementCount - количество элементов
+// _Stream - открытый файл
+// 
+
 long file_size(FILE *fp)
 {
 	long offset;
@@ -27,7 +53,6 @@ bool is_zaglav(const char *p_string)
 	}
 	return false;
 }
-
 
 int main()
 {

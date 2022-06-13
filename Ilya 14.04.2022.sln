@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1758
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab14_netak", "lab14\lab14.vcxproj", "{509884AF-BF06-40FF-BD07-375739045F32}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab14", "lab14\lab14.vcxproj", "{509884AF-BF06-40FF-BD07-375739045F32}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab15", "lab15\lab15.vcxproj", "{1939A365-6377-43BF-9182-5C0AA50BC980}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "copy_between_minmax", "copy_between_minmax\copy_between_minmax.vcxproj", "{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{1939A365-6377-43BF-9182-5C0AA50BC980}.Release|x64.Build.0 = Release|x64
 		{1939A365-6377-43BF-9182-5C0AA50BC980}.Release|x86.ActiveCfg = Release|Win32
 		{1939A365-6377-43BF-9182-5C0AA50BC980}.Release|x86.Build.0 = Release|Win32
+		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Debug|x64.ActiveCfg = Debug|x64
+		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Debug|x64.Build.0 = Debug|x64
+		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Debug|x86.Build.0 = Debug|Win32
+		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Release|x64.ActiveCfg = Release|x64
+		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Release|x64.Build.0 = Release|x64
+		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Release|x86.ActiveCfg = Release|Win32
+		{5B74CA8B-8076-4FB1-9994-733CD39A0B9B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

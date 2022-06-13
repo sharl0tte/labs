@@ -1,7 +1,7 @@
 ﻿  main.c
   Создание кода
-  0 of 7 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
-  lab15.vcxproj -> E:\GITHUB\labs_ilya\Release\lab15.exe
+  copy_between_minmax.vcxproj -> E:\GITHUB\labs_ilya\Release\copy_between_minmax.exe
