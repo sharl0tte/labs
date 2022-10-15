@@ -7,7 +7,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<windows.h>
-#define _CRT_SECURE_NO_WARNINGS //Разрешение использовать scanf
+#define _CRT_SECURE_NO_WARNINGS //Разрешение использовать небезопасные функции
 
 struct Phono
 {
