@@ -153,7 +153,7 @@ void handle_menu(int opt)
 			return;
 		}
 
-		printf("Set values from index: ");
+		printf("Get values from index: ");
 		scanf("%d", &opt);
 		printf("Number of values: ");
 		scanf("%d", &i);
@@ -168,7 +168,7 @@ void handle_menu(int opt)
 			break;
 		}
 
-		if ((opt + i) > count) {
+		if ((opt + i) > count /*-1*/) {
 			printf("SelectedIndex + NumOfSetElements > NumberOfElements\n");
 			break;
 		}
